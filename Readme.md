@@ -46,10 +46,10 @@ This project was inspired by:
 ![Most Delayed Airports](Images/most_delayed_airports.png)
 
 ### Delay Causes in Airlines
-![Delay Causes](Images/delay_affect_airlines.png)
+![Delay Causes](Images/delays_affect_airlines.png)
 
 ### Delays vs. Cancellations
-![Delays vs Cancellations](Images/delays_vs_cancellations.png)
+![Delays vs Cancellations](Images/delay_vs_cancellations.png)
 
 ### Seasonal Trends
 ![Monthly Trends](Images/airline_delays_peak_months.png)
