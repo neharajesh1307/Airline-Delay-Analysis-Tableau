@@ -61,10 +61,10 @@ Through this project, I developed stronger skills in:
 - Communicating complex patterns clearly and visually
 
 ## Author
-Neha Rajesh
-MS in Business Analytics
-LinkedIn: [https://www.linkedin.com/in/neha-rajesh-/]  
-Tableau Public: [https://public.tableau.com/app/profile/neha.rajesh1307/vizzes]
+Neha Rajesh  
+MS in Business Analytics  
+[LinkedIn](https://www.linkedin.com/in/neha-rajesh-/)    
+[Tableau Public](https://public.tableau.com/app/profile/neha.rajesh1307/vizzes)
 
 
 
